@@ -24,7 +24,7 @@ List<Coffee> menu = [
       shortDesc: "Esspresso dengan rasa lebih mild",
       desc:
           "Kamu pasti selalu menemukan cappuccino dalam buku menu tiap kali pergi ke kedai kopi, atau bahkan kafe-kafe biasa. Cappuccino adalah olahan espresso yang paling banyak digemari, terutama bagi penikmat kopi dengan rasa lebih mild",
-      image: "assets/cappucinno.jpg",
+      image: "assets/cappuccino.jpg",
       rate: 5,
       price: 22000),
   Coffee(
